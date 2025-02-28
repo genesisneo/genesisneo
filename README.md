@@ -1,4 +1,4 @@
-Genesis is a Project Designer and Developer based in Dubai, United Arab Emirates. An innovative, task-driven professional with 8+ years of experience in web design and development across diverse industries. Suit with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation.
+Genesis is a Senior UI/UX Designer and Engineer based in Winnipeg, Manitoba, Canada, with a decade of dynamic experience in web design and development across diverse industries. I have a strong record of success and excel in addressing companies' design and technological requirements through innovative solutions.
 
 <p align="center">
   <br />
@@ -11,6 +11,20 @@ Genesis is a Project Designer and Developer based in Dubai, United Arab Emirates
     alt="Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisneo&layout=compact&theme=monokai"
   />
+  <br /><br />
+  <b>Support</b>
+  <br /><br />
+  If you rely on my tools and find it useful, please consider supporting it.
+  <br />
+  Maintaining an open-source project takes time and a cup of coffee would be greatly appreciated!
+  <br /><br />
+  <a href="https://buymeacoffee.com/genesisneo" target="_blank">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
+      style="height: 64px !important; width: 228px !important;"
+    />
+  </a>
   <br /><br />
   <b>Online Presence</b>
   <br /><br />
